@@ -60,6 +60,7 @@ or,
 5. Run the main class (e.g., `Main.java` or your login form).
 6. Make sure MySQL server (XAMPP) is running.
 
+
 👤 **Author**
 
 - Afia Jahin Rupali – Lead Developer & Designer
