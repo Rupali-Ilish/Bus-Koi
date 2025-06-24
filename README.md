@@ -68,6 +68,7 @@ or,
 Responsible for full project development including Java coding, database design, simulation logic, and UI/UX design.  
   *(Sole contributor to this project)*
 
-📞 Contact
+📞 **Contact**
+
 For any queries-
 Email: afiajahinrupali@gmail.com
