@@ -23,7 +23,7 @@ ScheduledExecutorService for simulation
 
 📂 **Folder Structure**
 
-<pre> ```plaintext Bus Koi/
+<pre> ```Bus Koi/
 │
 ├── src/                    # Java source files
 │   ├── db/                 # DB connection classes
