@@ -1,12 +1,12 @@
 # Bus-Koi? - Campus Bus Tracker System
 
-📌 Description
+📌 **Description**
 
 "Bus Koi?" is a Java application with GUI and MySQL database to track university buses in real-time.
 It enables students to view real-time locations of campus buses, 
 while admins can manage bus routes, stops, and simulate movements without driver interaction.
 
-🎯 Features
+🎯 **Features**
 
 Admin dashboard (Add/Edit/Delete buses, routes, stops)
 Student dashboard with live ETA
@@ -14,16 +14,16 @@ Real-time simulation every 10 seconds
 MySQL database integration
 GUI designed with Java Swing
 
-🖥 Tech Stack
+🖥 **Tech Stack**
 
 Java (Swing for GUI)
 MySQL (XAMPP)
 JDBC
 ScheduledExecutorService for simulation
 
-📂 Folder Structure
+📂 **Folder Structure**
 
-Bus Koi/
+<pre> ```plaintext Bus Koi/
 │
 ├── src/                    # Java source files
 │   ├── db/                 # DB connection classes
@@ -39,7 +39,7 @@ Bus Koi/
 │   └── use_case_diagram.png
 │
 ├── README.md
-└── .gitignore
+└── .gitignore ``` </pre>
 
 ⚙️ Setup Instructions
 
@@ -60,7 +60,6 @@ or,
 5. Run the main class (e.g., `Main.java` or your login form).
 6. Make sure MySQL server (XAMPP) is running.
 
-🧑‍💻 Author
 👤 **Author**
 
 - Afia Jahin Rupali – Lead Developer & Designer
